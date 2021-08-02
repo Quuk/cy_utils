@@ -1,5 +1,3 @@
-<div style="font-weight: bold;font-size: 30px">cy_utils</div>
-<hr/>
 <div style="display: flex;align-items: center">
   <img src="https://img.shields.io/badge/RE-说明文档-red.svg"/>&emsp;
   <img src="https://img.shields.io/badge/📩-tcyeee@outlook.com-green.svg"/>&emsp;
